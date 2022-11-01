@@ -81,7 +81,16 @@
   "itemGroup.tab_spawn_eggs": "Beyond Earth: Spawn Eggs",
   "itemGroup.tab_materials": "Beyond Earth: Materials",
 
-  "block.beyond_earth.coal_lantern": "Coal Lantern",
+  "item.beyond_earth.blue_iron_pillar": "Blue Iron Pillar",
+  "item.beyond_earth.iron_rod": "Iron Rod",
+
+  "block.beyond_earth.barricade_block": "Barricade Block",
+  "block.beyond_earth.desh_pillar": "Desh Pillar",
+  "block.beyond_earth.desh_plating_block": "Desh Plating",
+  "block.beyond_earth.meteorite": "Meteorite",
+  "block.beyond_earth.coal_lantern": "Block of Coal Lantern",
+  "block.beyond_earth.blue_iron_pillar": "Blue Iron Pillar",
+
   "block.beyond_earth.oxygen_bubble_distributor": "Oxygen Bubble Distributor",
   "block.beyond_earth.blue_iron_plating_block": "Block of Blue Iron Plating",
   "block.beyond_earth.mercury_iron_ore": "Mercury Iron Ore",
