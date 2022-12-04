@@ -184,6 +184,26 @@
   "block.beyond_earth.glacio_coal_ore": "Glacio Coal Ore",
   "block.beyond_earth.glacio_copper_ore": "Glacio Copper Ore",
   "block.beyond_earth.glacio_iron_ore": "Glacio Iron Ore",
-  "block.beyond_earth.glacio_lapis_ore": "Glacio Coal Ore"
+  "block.beyond_earth.glacio_lapis_ore": "Glacio Coal Ore",
 
+  "gui.beyond_earth.planet_selection.catalog": "Catalog",
+  "gui.beyond_earth.planet_selection.back": "Back",
+  "gui.beyond_earth.planet_selection.type": "Type",
+  "gui.beyond_earth.planet_selection.planet": "Planet",
+  "gui.beyond_earth.planet_selection.gravity": "Gravity",
+  "gui.beyond_earth.planet_selection.oxygen": "Oxygen",
+  "gui.beyond_earth.planet_selection.oxygen.true": "True",
+  "gui.beyond_earth.planet_selection.temperature": "Temperature",
+
+
+  "gui.beyond_earth.planet_selection.earth": "Earth",
+  "gui.beyond_earth.planet_selection.mars": "Mars",
+  "gui.beyond_earth.planet_selection.mercury": "Mercury",
+  "gui.beyond_earth.planet_selection.venus": "Venus",
+  "gui.beyond_earth.planet_selection.glacio": "Glacio",
+
+  "gui.beyond_earth.planet_selection.solar_system_sun": "Solar System",
+  "gui.beyond_earth.planet_selection.solar_system_proxima_centauri": "Proxima Cent.",
+
+  "message.beyond_earth.speed:": "Press Space to reduce speed!"
 }
